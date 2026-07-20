@@ -34,7 +34,6 @@ My GitHub Profile
 
 ## 💫 About Me
 
-```javascript
 const aisan = {
   name: "Aisan",
   age: 18,
@@ -73,8 +72,6 @@ const aisan = {
   </table>
 </div>
 
----
-
 ## 🎯 What I'm Working On
 
 <div align="center">
@@ -98,8 +95,6 @@ const aisan = {
   </table>
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -117,7 +112,6 @@ const aisan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aboutyasan&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="90%" />
 </div>
 
----
 
 ## 🎨 Design Philosophy
 
@@ -128,8 +122,6 @@ const aisan = {
 - ⚡ **Fast & smooth** interactions
 - 🎯 **User-centered** experiences
 - 🌈 **Accessible** to everyone
-
----
 
 ## 📫 Let's Connect
 
