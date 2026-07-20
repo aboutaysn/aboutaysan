@@ -1,7 +1,7 @@
 # aboutaysan
 My GitHub Profile
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Yasan;16-Year-Old+Developer;AI+Enthusiast;Full-Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+aisan;18-Year-Old+Developer;AI+Enthusiast;Full-Stack+Learner" alt="Typing SVG" />
   
   <br/>
   
@@ -14,11 +14,6 @@ My GitHub Profile
   <img src="https://komarev.com/ghpvc/?username=aboutyasan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
----
-
-## ⚡ About Me
-
-```javascript
 const aboutMe = {
   name: "aisan",
   age: 18,
