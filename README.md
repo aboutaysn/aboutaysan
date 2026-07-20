@@ -42,47 +42,13 @@ My GitHub Profile
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=php" width="60" />
       <br/><sub>PHP</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="60" />
-      <br/><sub>Tailwind</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="60" />
-      <br/><sub>Laravel</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="60" />
-      <br/><sub>MySQL</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="60" />
-      <br/><sub>Python</sub>
-    </td>
   </tr>
 </table>
 
----
 <p align="center">
   <a href="https://github.com/aboutyasan?tab=repositories">
     <img src="https://img.shields.io/badge/✦_view_all_projects-89CFF0?style=for-the-badge&labelColor=0d1117" />
   </a>
-</p>
-
----
-
-## ✦ the way i work
-
-<p align="center">
-  <b>✦ design-first</b> · pixel-perfect · mobile-first · smooth interactions
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboutyasan&theme=dark&background=0d1117&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0&sideLabels=89CFF0&border=89CFF0" width="70%" />
 </p>
 
 
@@ -99,7 +65,6 @@ My GitHub Profile
     <img src="https://img.shields.io/badge/github-89CFF0?style=for-the-badge&logo=github&logoColor=0d1117" />
   </a>
 </p>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,18&height=120&section=footer" width="100%" />
